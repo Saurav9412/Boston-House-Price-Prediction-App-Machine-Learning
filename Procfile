@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Boston-House-Price-Prediction-App.py
